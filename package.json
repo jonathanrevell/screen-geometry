@@ -1,0 +1,23 @@
+{
+  "name": "screen-geometry",
+  "version": "0.0.4",
+  "description": "Library for monitoring the screen size and making queries about elements on the screen",
+  "main": "ScreenGeometry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanrevell/screen-geometry.git"
+  },
+  "author": "Jonathan Revell H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanrevell/screen-geometry/issues"
+  },
+  "homepage": "https://github.com/jonathanrevell/screen-geometry#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.4"
+  }
+}
