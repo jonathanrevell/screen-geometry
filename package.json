@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jonathanrevell/screen-geometry#readme",
   "dependencies": {
-    "jquery": "^3.1.1",
     "lodash": "^4.16.4"
   }
 }
